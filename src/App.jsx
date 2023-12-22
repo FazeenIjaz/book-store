@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Hero from "./components/Hero/Hero";
-import Navbar from "./components/Navbar/Navbar";
+import Navbar from "./components/NavBar/NavBar";
 import Services from "./components/Services/Services.jsx";
 import Banner from "./components/Banner/Banner.jsx";
 import AppStore from "./components/AppStore/AppStore.jsx";
