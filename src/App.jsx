@@ -10,7 +10,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import OrderPopup from "./components/OrderPopup/OrderPopup.jsx";
 import Books from "./components/BooksSlider/Books.jsx";
-import PdfReader from "./components/PdfReader/PdfReader.jsx";
+// import PdfReader from "./components/PdfReader/PdfReader.jsx";
 
 const App = () => {
   const [orderPopup, setOrderPopup] =useState(false);
